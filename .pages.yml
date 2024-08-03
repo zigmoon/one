@@ -1,4 +1,4 @@
-media: files/media
+media: /media
   
 content:
   - name: posts
