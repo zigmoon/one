@@ -1,5 +1,7 @@
-media: media
-content:
+media:
+  input: src/media
+  output: /media
+  
   - name: posts
     label: Posts
     type: collection
